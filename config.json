@@ -1,0 +1,19 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["ownerid"],
+        "ACTIVITY_TEXT": "Durum Yazısı",
+        "GUILD_ID": "Sunucu id",
+        "VOICE_CHANNEL": "Gireceği kanal id",
+        "MIN_STAFF_ROLE": "En düşük yetki rolü / kayıtçı id yani"
+    },
+    "FILES": {
+        "WELCOME": "default_files/Welcome.mp3",
+        "STAFF": "default_files/Staff.mp3"
+    },
+    "TOKEN": "bottoken"
+
+
+
+}
+
+
