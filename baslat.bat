@@ -3,6 +3,6 @@ title gate1
 color c
 cls
 :a
-node app.js
+node wasty.js
 goto a
 pause
